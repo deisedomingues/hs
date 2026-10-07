@@ -1,0 +1,75 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 320 230"
+  fill="none"
+>
+  <title>HS Estética e Massoterapia</title>
+
+  <!-- Iniciais desenhadas como curvas vetoriais -->
+  <g fill="#161217">
+    <path d="
+      M72 35h39v4H99v43h43V39h-12v-4h39v4h-12v94h12v4h-39v-4h12V88
+      H99v45h12v4H72v-4h12V39H72Z
+    "/>
+
+    <path d="
+      M226 38v28h-4c-3-20-14-29-30-29-13 0-23 8-23 20
+      0 13 12 20 29 27 23 10 34 18 34 34
+      0 18-16 29-36 29-13 0-23-4-30-9l-5 7h-3v-33h4
+      c4 21 17 31 34 31 15 0 25-9 25-21
+      0-12-11-19-29-27-23-10-34-18-34-35
+      0-17 15-28 34-28 12 0 21 4 28 8l3-7Z
+    "/>
+  </g>
+
+  <!-- Ramo violeta entre as iniciais -->
+  <g
+    stroke="#7843a4"
+    stroke-width="1.7"
+    stroke-linecap="round"
+  >
+    <path d="M147 127q-9-27 2-64"/>
+
+    <path
+      fill="#b79acd"
+      d="
+        M145 115q-14-1-14-12 11 0 14 12Z
+        m-1-12q12-2 15-12-11 0-15 12Z
+        m1-11q-12-2-13-12 10 1 13 12Z
+        m1-11q11-3 13-13-10 1-13 13Z
+        m3-12q-7-5-5-14 8 4 5 14Z
+      "
+    />
+  </g>
+
+  <text
+    x="160"
+    y="170"
+    text-anchor="middle"
+    fill="#302733"
+    font-family="Arial,Helvetica,sans-serif"
+    font-size="10"
+    letter-spacing="2"
+  >ESTÉTICA &amp; MASSOTERAPIA</text>
+
+  <!-- Borboleta -->
+  <g
+    stroke="#7843a4"
+    stroke-width="1.8"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  >
+    <path d="
+      M160 204c-4-13-16-24-34-25
+      2 16 10 29 28 25-5 10-14 9-18 1
+      m24-1c4-13 16-24 34-25
+      -2 16-10 29-28 25 5 10 14 9 18 1
+    "/>
+
+    <path d="
+      M155 199c-6-8-12-12-19-13 2 8 6 13 13 14
+      m16-1c6-8 12-12 19-13-2 8-6 13-13 14
+      M160 196v17m0-17-6-10m6 10 6-10
+    "/>
+  </g>
+</svg>
